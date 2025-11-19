@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Game Library Management</title>
+</head>
+<body>
+  <h1>Game Library Management</h1>
+
+  <form>
+    <label>Game ID:</label>
+    <input type="text"><br><br>
+
+    <label>Title:</label>
+    <input type="text"><br><br>
+
+    <label>Genre:</label>
+    <input type="text"><br><br>
+
+    <label>Platform:</label>
+    <input type="text"><br><br>
+
+    <button type="submit">Save Game</button>
+  </form>
+</body>
+</html>
