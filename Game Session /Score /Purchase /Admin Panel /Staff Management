@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin / Staff Management</title>
+</head>
+<body>
+  <h1>Admin / Staff Management</h1>
+
+  <form>
+    <label>Staff ID:</label>
+    <input type="text"><br><br>
+
+    <label>Name:</label>
+    <input type="text"><br><br>
+
+    <label>Role:</label>
+    <input type="text" placeholder="Admin / Moderator"><br><br>
+
+    <button type="submit">Save Staff</button>
+  </form>
+</body>
+</html>
