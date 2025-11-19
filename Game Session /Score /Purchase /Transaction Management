@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Purchase / Transaction Management</title>
+</head>
+<body>
+  <h1>Purchase / Transaction Management</h1>
+
+  <form>
+    <label>Transaction ID:</label>
+    <input type="text"><br><br>
+
+    <label>User ID:</label>
+    <input type="text"><br><br>
+
+    <label>Item Name:</label>
+    <input type="text"><br><br>
+
+    <label>Amount:</label>
+    <input type="number"><br><br>
+
+    <button type="submit">Save Transaction</button>
+  </form>
+</body>
+</html>
