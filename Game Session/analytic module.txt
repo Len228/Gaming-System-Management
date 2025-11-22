@@ -1,0 +1,29 @@
+Analytic module
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reports / Analytics</title>
+</head>
+<body>
+  <h1>Reports / Analytics</h1>
+
+  <form>
+    <label>Total Users:</label>
+    <input type="number"><br><br>
+
+    <label>Total Games:</label>
+    <input type="number"><br><br>
+
+    <label>Total Sessions:</label>
+    <input type="number"><br><br>
+
+    <label>Total Transactions:</label>
+    <input type="number"><br><br>
+
+    <label>Total Revenue:</label>
+    <input type="number"><br><br>
+
+    <button type="submit">Generate Report</button>
+  </form>
+</body>
+</html>

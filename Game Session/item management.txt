@@ -1,0 +1,26 @@
+item management
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inventory / Item Management</title>
+</head>
+<body>
+  <h1>Inventory / Item Management</h1>
+
+  <form>
+    <label>Item ID:</label>
+    <input type="text"><br><br>
+
+    <label>Item Name:</label>
+    <input type="text"><br><br>
+
+    <label>Owner User ID:</label>
+    <input type="text"><br><br>
+
+    <label>Quantity:</label>
+    <input type="number"><br><br>
+
+    <button type="submit">Save Item</button>
+  </form>
+</body>
+</html>

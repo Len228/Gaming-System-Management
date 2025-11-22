@@ -1,0 +1,26 @@
+Player Management
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User / Player Management</title>
+</head>
+<body>
+  <h1>User / Player Management</h1>
+
+  <form>
+    <label>User ID:</label>
+    <input type="text"><br><br>
+
+    <label>Name:</label>
+    <input type="text"><br><br>
+
+    <label>Email:</label>
+    <input type="email"><br><br>
+
+    <label>Level:</label>
+    <input type="number"><br><br>
+
+    <button type="submit">Save User</button>
+  </form>
+</body>
+</html>
