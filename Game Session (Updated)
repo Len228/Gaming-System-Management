@@ -1,0 +1,30 @@
+Match Management
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Game Session / Match Management</title>
+</head>
+<body>
+  <h1>Game Session / Match Management</h1>
+
+  <form>
+    <label>Session ID:</label>
+    <input type="text"><br><br>
+
+    <label>Game ID:</label>
+    <input type="text"><br><br>
+
+    <label>Player User ID:</label>
+    <input type="text"><br><br>
+
+    <label>Status:</label>
+    <select>
+      <option>Pending</option>
+      <option>In Progress</option>
+      <option>Completed</option>
+    </select><br><br>
+
+    <button type="submit">Save Session</button>
+  </form>
+</body>
+</html>
